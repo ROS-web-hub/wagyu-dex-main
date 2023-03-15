@@ -1,0 +1,76 @@
+
+.tradingView {
+    margin: 20px;
+}
+
+.infoView {
+    margin-right: 30px;
+    margin-top: 5px;
+}
+
+.RealTimeChart {
+    height: 500px !important;
+}
+
+.showValue {
+    color: #17c671;
+}
+
+.valuechange {
+    color: #cacedb;
+}
+
+.viewInfoMoreBtn {
+    height: 20px;
+}
+
+.viewInfoMoreGrid {
+    padding-top: 7px;
+}
+
+.DextScore {
+    background-color: #142028;
+}
+
+.DextScore .dext {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.ContractDetails {
+    background-color: #142028;
+}
+
+.percentageValue {
+    color: #1bc288;
+    margin-top: 10px;    
+}
+
+.dextValue {
+    color: #cacedb;
+}
+
+.ContractDetails {
+    padding: 29px;
+}
+
+.contractlabel {
+    color: #cacedb;
+}
+
+.first {
+    color: #cacedb;
+}
+
+.second {
+    color: #38434c;
+}
+
+.IconInfoBtn {
+    color: #00b8d8;
+}
+
+.IconInfoLabel {
+    color: #cacedb
+}
